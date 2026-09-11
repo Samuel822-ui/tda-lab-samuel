@@ -1,8 +1,8 @@
-# TDA Lab de [SAMUEL DÍAZ FUEGO]
+# TDA Lab de SAMUEL DÍAZ FUEGO
 
-**[2ºBach] · Curso 2026-2027**
+**2ºBach · Curso 2026-2027**
 
-[Esto es el sitio donde voy a dejar todo lo que haga en TDA II]
+Esto es el sitio donde voy a dejar todo lo que haga en TDA II
 
 ---
 
