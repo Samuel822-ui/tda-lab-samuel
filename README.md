@@ -1,9 +1,8 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de [SAMUEL DÍAZ FUEGO]
 
-**[TU CURSO] · Curso 2026-2027**
+**[2ºBach] · Curso 2026-2027**
 
-[Escribe aquí una frase tuya diciendo qué es esto. Por ejemplo: «Aquí voy dejando lo que
-hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
+[Esto es el sitio donde voy a dejar todo lo que haga en TDA II]
 
 ---
 
