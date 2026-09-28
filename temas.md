@@ -12,4 +12,5 @@ Buscando en GitHub he encontrado [Fútbol](https://github.com/google-research/fo
 ### 28/09 Premios Princesa 
 De todos los galardonados de estos premios he elegido a Lionel Andrés Messi, premiado a Premio Princesa de Asturias de los Deportes. Es premiado no solo por su nivel y talento sino que también por su magnífica trayectoria deportiva. Ya que en la historia es el máximo ganador de títulos como individuales y colectivos lo que ha hecho ganarse el respeto y admiración de muchos aficionados al deporte y de otros deportistas de élite.
 En este enlace se encuentra toda la información necesaria para conocer más al ganador [Messi](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?texto=acta).
-![Lionel](capturas/Leo Messi) 
+
+![Lionel](capturas/) 
