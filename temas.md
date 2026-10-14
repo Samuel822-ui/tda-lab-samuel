@@ -22,7 +22,7 @@ Imagen: AUTOR, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?sea
 Ada Lovelace fue una matemática y escritora británica, que es conocida por su trabajo sobre la computadora mecánica. Fue la primera en decir que esta máquina servía para más cosas a parte del cálculo y en haber publicado el primer algoritmo destinado a ser procesado por una máquina, lo que hace que se le considere la primera programadora de ordenadores de la historia.
 Fue tan importante que se le otorgó un día en conmemoración a las mujeres que se dedican a la ciencia. [Ada Lovelace](https://es.wikipedia.org/wiki/Ada_Lovelace#Biograf%C3%ADa)
 
-![AdaLovelace](capturas/Ada) {:width="300"}
+ ![ADA](capturas/ada.jpg){:width="300"}
 
 Imagen: Mat Fascione,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Ada+Lovelace&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Ada_Lovelace_statue_-_geograph.org.uk_-_8276638.jpg)
 
