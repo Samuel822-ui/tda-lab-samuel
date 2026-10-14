@@ -24,6 +24,6 @@ Fue tan importante que se le otorgó un día en conmemoración a las mujeres que
 
  ![ADA](capturas/ada.jpg){:width="300"}
 
-Imagen: Mat Fascione,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Ada+Lovelace&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Ada_Lovelace_statue_-_geograph.org.uk_-_8276638.jpg)
+*Imagen: Mat Fascione,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Ada+Lovelace&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Ada_Lovelace_statue_-_geograph.org.uk_-_8276638.jpg)*
 
 
