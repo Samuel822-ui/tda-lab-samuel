@@ -49,7 +49,7 @@
  - **Aplicación:** Thonny
 - **Entregado:** El zip con todos los ejercicios hechos
 - **Qué hice:** hice unos ejercicios de programación mediante unas instrucciones
- ---
+---
  
  ### 16/11 · U1_A6-Funciones
 
