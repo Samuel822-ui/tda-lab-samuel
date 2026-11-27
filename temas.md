@@ -35,6 +35,7 @@ Es una sonda espacial lanzada en 1977 por la NASA y en 2026 llego a ser el prime
 | Velocidad |1.079.252.848,8 KM/H |
 | Lo que tarda su señal en llegar | 24 HORAS |
 | Años de viaje | 49 AÑOS |
+
 ![voyager](capturas/voyager) {width="300"}
 Imagen: Autor,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Voyager&title=Special%3AMediaSearch&type=image)
 **Mi disco de Oro 2026**
