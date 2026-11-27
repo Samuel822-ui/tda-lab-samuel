@@ -17,7 +17,7 @@ Imagen: AUTOR, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?sea
 
 
 ![Lionel](capturas/LeoMessi) 
-
+---
 ### 14/10 Ada Lovelace
 Ada Lovelace fue una matemática y escritora británica, que es conocida por su trabajo sobre la computadora mecánica. Fue la primera en decir que esta máquina servía para más cosas a parte del cálculo y en haber publicado el primer algoritmo destinado a ser procesado por una máquina, lo que hace que se le considere la primera programadora de ordenadores de la historia.
 Fue tan importante que se le otorgó un día en conmemoración a las mujeres que se dedican a la ciencia. [Ada Lovelace](https://es.wikipedia.org/wiki/Ada_Lovelace#Biograf%C3%ADa)
@@ -25,6 +25,7 @@ Fue tan importante que se le otorgó un día en conmemoración a las mujeres que
  ![ADA](capturas/ada.jpg){:width="300"}
 
 *Imagen: Mat Fascione,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Ada+Lovelace&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Ada_Lovelace_statue_-_geograph.org.uk_-_8276638.jpg)*
+---
 ### 27/11 Voyager 1
 Es una sonda espacial lanzada en 1977 por la NASA y en 2026 llego a ser el primer objeto de la humanidad en alcanzar el espacio interestelar y es la más alejada de la Tierra tras alcanzar el día luz de distancia. En su interior contiene un disco de vinilo para que se pueda reproducir sonidos humanos si se llegará a encontrar con vida en otros planetas. 
 | Dato | Voyager 1 |
@@ -34,3 +35,11 @@ Es una sonda espacial lanzada en 1977 por la NASA y en 2026 llego a ser el prime
 | Velocidad |1.079.252.848,8 KM/H |
 | Lo que tarda su señal en llegar | 24 HORAS |
 | Años de viaje | 49 AÑOS |
+![voyager](capturas/voyager) {width="300"}
+Imagen: Autor,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Voyager&title=Special%3AMediaSearch&type=image)
+**Mi disco de Oro 2026**
+- **Lo que pondría:** El himno del Sevilla y una foto del fútbol.
+- **En qué idioma:** Español.
+- **En qué formato:** la foto impresa y el himno en un disco.
+
+---
