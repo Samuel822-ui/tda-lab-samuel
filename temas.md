@@ -24,7 +24,8 @@ Fue tan importante que se le otorgó un día en conmemoración a las mujeres que
 
  ![ADA](capturas/ada.jpg){:width="300"}
 
-*Imagen: Mat Fascione,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Ada+Lovelace&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Ada_Lovelace_statue_-_geograph.org.uk_-_8276638.jpg)*
+Imagen: Mat Fascione,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&search=Ada+Lovelace&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Ada_Lovelace_statue_-_geograph.org.uk_-_8276638.jpg)
+
 ---
 ### 27/11 Voyager 1
 Es una sonda espacial lanzada en 1977 por la NASA y en 2026 llego a ser el primer objeto de la humanidad en alcanzar el espacio interestelar y es la más alejada de la Tierra tras alcanzar el día luz de distancia. En su interior contiene un disco de vinilo para que se pueda reproducir sonidos humanos si se llegará a encontrar con vida en otros planetas. 
