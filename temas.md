@@ -38,6 +38,7 @@ Es una sonda espacial lanzada en 1977 por la NASA y en 2026 llego a ser el prime
 
 ![voyager](capturas/voyager.png) {width="300"}
 Imagen: Autor,[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=Voyager&title=Special%3AMediaSearch&type=image)
+
 **Mi disco de Oro 2026**
 - **Lo que pondría:** El himno del Sevilla y una foto del fútbol.
 - **En qué idioma:** Español.
